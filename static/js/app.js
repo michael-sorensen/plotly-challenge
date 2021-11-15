@@ -16,7 +16,7 @@
 */
 
 
-file = "../../data/samples.json"
+file = "/data/samples.json"
 
 // ADDING NAMES TO DROPDOWN
 d3.json(file).then(function(data) {
